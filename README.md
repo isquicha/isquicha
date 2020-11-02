@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I'm André Vicente|isquicha.
 
-<!--
-**isquicha/isquicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: t.me/isquicha
+- 💬 Ask me about japanese anime \*^\* or Computing
+- 🌱 Currently learning advaced Python, Flask, Linux
+- 👯 Looking to collaborate on Python, Linux
+- 🤔 Looking for help with ... well, i can do some googles =D
+- 🎓 Systems Analysis and Development Technologist
+- 🎓 Electronics Technician
+- 📕 Distance Education Specialization Student
+- 📕 Computer Engineering Student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isquicha&layout=compact&show_icons=true&theme=monokai&langs_count=10&count_private=true" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=isquicha&show_icons=true&theme=monokai&count_private=true&hide_border=true&include_all_commits=true" /></td>
+    </tr>   
+  </table>
+</center>  
