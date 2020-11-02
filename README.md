@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm André Vicente|isquicha.
 
-- 📫 How to reach me: t.me/isquicha
+- 📫 How to reach me: [t.me/isquicha](https://t.me/isquicha)
 - 💬 Ask me about japanese anime \*^\* or Computing
 - 🌱 Currently learning advaced Python, Flask, Linux
 - 👯 Looking to collaborate on Python, Linux
