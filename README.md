@@ -22,39 +22,4 @@
   </table>
 </center>  
 
-## Pinned repos
-<center>
-  <table>
-    <tr>
-      <td>
-        <a href=""><img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=isquicha&theme=monokai&repo=batchcolors"></a>
-      </td>
-      <td>
-        <a href=""><img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=isquicha&theme=monokai&repo=users-line-rpc-api"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href=""><img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=isquicha&theme=monokai&repo=aulas-e-videos"></a>
-      </td>
-      <td>
-        <a href=""><img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=isquicha&theme=monokai&repo=isquicha.github.io"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href=""><img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=isquicha&theme=monokai&repo=exercicios-logica-python"></a>
-      </td>
-      <td>
-        <a href=""><img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=isquicha&theme=monokai&repo=exercicios-logica-c"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href=""><img height="180px" src="https://github-readme-stats.vercel.app/api/pin/?username=isquicha&theme=monokai&repo=exercicios-logica-lua"></a>
-      </td>
-    </tr>
-  </table>
-</center>
-
-Stats and pinns powered by [this cool repo](https://github-readme-stats.vercel.app) =D.
+Stats powered by [this cool repo](https://github-readme-stats.vercel.app) =D.
