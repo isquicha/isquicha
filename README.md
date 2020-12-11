@@ -17,7 +17,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isquicha&layout=compact&show_icons=true&theme=monokai&langs_count=10"/></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=isquicha&show_icons=true&theme=monokai&count_private=true&hide_border=true&include_all_commits=true" /></td>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=isquicha&show_icons=true&theme=monokai&count_private=true&hide_border=true&include_all_commits=true" /></td>
     </tr>   
   </table>
 </center>  
