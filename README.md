@@ -1,4 +1,4 @@
-### Hi there 👋 I'm André Vicente | isquicha.
+### Hi there 👋 I'm André Vicente | @isquicha.
 
 ## Info
 - 📫 How to reach me: [t.me/isquicha](https://t.me/isquicha)
@@ -8,7 +8,6 @@
 - 🤔 Looking for help with ... well, i can do some googles =D
 - 🎓 Systems Analysis and Development Technologist
 - 🎓 Electronics Technician
-- 📕 Distance Education Specialization Student
 - 📕 Computer Engineering Student
 
 
